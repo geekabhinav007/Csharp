@@ -16,7 +16,7 @@ Console.WriteLine("I am Abhinav");
 
 You can declare variables with this format => `<type> <name> = <value>;`
 
-```C#
+```c#
 int i = 10;
 ```
 
@@ -39,7 +39,7 @@ You can store boolean values using bool type. => `bool isGood = true;`
 
 ### If
 
-```C#
+```c#
 if(i == 10) // == means equals
 {
  i = 20;
@@ -52,7 +52,7 @@ if(Condition){
 
 ### Else If
 
-```C#
+```c#
 else if(i != 15) 
 {
     // Statement
@@ -62,7 +62,7 @@ else if(i != 15)
 
 ### ELSE
 
-```C#
+```c#
 else 
 {
     //Statement
@@ -75,7 +75,7 @@ else
 
 ### While
 
-```C#
+```c#
 // This is what the while condition looks like.
 while(i < 50) 
 {
@@ -85,7 +85,7 @@ while(i < 50)
 
 ### For
 
-```C#
+```c#
 // The classic for loop. Nothing is out of the ordinary here.
 for(int x = 0; x < 50; x++) 
 {
@@ -96,14 +96,14 @@ for(int x = 0; x < 50; x++)
 
 ## Ternary Operator
 
-```C#
+```c#
 string s3 = i == 50 ? "It's 50" : "It's not 50"; 
 // We have ternary operator too...
 ```
 
 ## Array
 
-```C#
+```c#
 // Arrays
 // You can create an array with a length of 10 like this. 
 // Similar To JAVA
@@ -116,7 +116,7 @@ sArray[2] = s3;
 
 ## Methods
 
-```C#
+```c#
 // Methods
 // You can declare methods like this; 
 
@@ -141,7 +141,7 @@ int i2 = Add(10,20);
 
 ## Classes in C #
 
-```C#
+```c#
 // Classes
 // You can declare classes like this.
 /*
