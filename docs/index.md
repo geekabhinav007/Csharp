@@ -164,10 +164,11 @@ class Person
 
 // You can create an instance of your class like this;
 Person p = new Person();
-p.Name = "Fatih"; // You can reach the properties and methods inside your class using dot notation.
-p.Surname = "DoÄŸan";
-p.Age = 25;
+p.Name = "Kumar"; // You can reach the properties and methods inside your class using dot notation.
+p.Surname = "Abhinav";
+p.Age = 21;
 string fd = p.FullName();
+Console.WriteLine(fd);
 ```
 
 ## Happy Learning
